@@ -54,7 +54,7 @@ public class EmployeeController {
 
 
 }
-
+        //TODO: new task for new task branch
         //TODO: create an api to update the salary only (done)
         //TODO: create an API to get all the employee data {hint: use employeeRepository to get all data, use finaAll() method}
         //TODO: Create a company model, controller, service dto, create(save), update, delete, find all company detail
